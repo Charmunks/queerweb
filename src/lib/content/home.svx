@@ -22,81 +22,81 @@ We support the open web and think everyone deserves freedom on the internet, eve
 <br><br>
 
 <Button 
-	image="/ivie.png" 
+	image="ivie.png" 
 	link="https://ivie.codes" 
 	alt="Ivie button"
 />
 
 <Button 
-	image="/trans.png" 
+	image="trans.png" 
 	link="#" 
 	alt="Trans rights button"
 />
 
 <Button
-	image="/queer.png"
+	image="queer.png"
 	link="#"
 	alt="Queer button"
 />
 
 <Button
-	image="/pride.png"
+	image="pride.png"
 	link="#"
 	alt="Pride button"
 />
 
 <Button
-	image="/privacy.png"
+	image="privacy.png"
 	link="#"
 	alt="Privacy button"
 />
 
 <Button
-	image="/cat.png"
+	image="cat.png"
 	link="#"
 	alt="Cat button"
 />
 
 <Button
-	image="/gay.gif"
+	image="gay.gif"
 />
 
 <Button
-	image="/transyourgender.gif"
+	image="transyourgender.gif"
 />
 
 <Button
-	image="/transflag.png"
+	image="transflag.png"
 />
 
 <Button
-	image="/queerpride.gif"
+	image="queerpride.gif"
 />
 
 <Button
-	image="/rainbow.gif"
+	image="rainbow.gif"
 />
 
 <Button
-	image="/enby.png"
-/>
-
-
-<Button
-	image="/heart.png"
+	image="enby.png"
 />
 
 
 <Button
-	image="/progress.png"
+	image="heart.png"
+/>
+
+
+<Button
+	image="progress.png"
 />
 
 <Button
-	image="/bi.png"
+	image="bi.png"
 />
 
 <Button
-	image="/aroace.png"
+	image="aroace.png"
 />
 
 
