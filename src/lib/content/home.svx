@@ -1,5 +1,6 @@
 <script>
-	import Project from '$lib/components/ProjectComingSoon.svelte';
+	import ProjectComingSoon from '$lib/components/ProjectComingSoon.svelte';
+	import Project from '$lib/components/Project.svelte';
 	import Person from '$lib/components/Person.svelte';
 	import Button from '$lib/components/88x31.svelte';
 	import ClickButton from '$lib/components/Button.svelte';
@@ -14,11 +15,19 @@ We support the open web and think everyone deserves freedom on the internet, eve
 
 ## Projects/Services
 
-<Project 
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+<Project
+	name="seek.gay" 
+	link="https://seek.gay" 
+	description="Private and secure search engine"
+/>
+
+<ProjectComingSoon
 	name="notes.gay" 
 	link="https://github.com/example/queerweb" 
 	description="Free and secure file hosting and sharing for queer people"
 />
+</div>
 
 ## The Panic Button
 
