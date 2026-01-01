@@ -17,3 +17,7 @@ All of our projects are [open source](https://github.com/queerweb), so you can c
 ## What are your plans for the future?
 
 Our top priority at the moment is getting notes.gay and the panic button up and running. Once those are complete, we will move on to new projects to support queer people on the internet.
+
+## Why is this specifically for queer people? Can't anyone use these services.
+
+Our services are open to anyone, and allies and non queer people are welcome to use them. What sets us apart is that all our services are designed specifically for queer people, and we put effort into making them as good as possible for that demographic. This is why we are focusing on privacy and features like the panic button.
